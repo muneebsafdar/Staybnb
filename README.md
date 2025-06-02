@@ -35,7 +35,7 @@ Icons: Remix Icons
 
 📥 Installation
 Clone the repo:
-git clone https://github.com/your-username/staybnb.git 
+git clone (https://github.com/muneebsafdar/Staybnb.git)
 
 Install dependencies:
 npm install  
